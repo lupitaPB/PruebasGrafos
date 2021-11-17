@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author lupit
+ * @author lupita y Joab
  */
 public class Grafos {
 
