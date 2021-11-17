@@ -9,7 +9,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author lupit
+ * @author lupita y Joab
  */
 public class Enlace {
 
