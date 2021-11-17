@@ -9,7 +9,7 @@ import java.awt.Graphics;
 
 /**
  *
-  YBJOA  @author lupitY
+ @author lupita y joab
  */
 public class Nodo {
  private int x,y;
